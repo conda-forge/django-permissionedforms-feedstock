@@ -11,6 +11,11 @@ Summary: Django extension for creating forms that vary according to user permiss
 
 Development: https://github.com/wagtail/django-permissionedforms
 
+Documentation: https://github.com/wagtail/django-permissionedforms/blob/main/README.md
+
+django-permissionedforms is an extension to Django's forms framework, 
+allowing you to define forms where certain fields are shown or omitted according to the user's permissions.
+
 Current build status
 ====================
 
